@@ -35,6 +35,10 @@ end
 
 This field is hidden on the `Edit` screen.
 
+### Customization
+
+You can further customize the index and show view partials to display the data you need. Also, you can enable the edit ecomponent by removing `hide_on :edit` from the field file.
+
 ### Screenshots
 
 ![](index_view.jpg)
